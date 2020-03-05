@@ -4,6 +4,6 @@ A machine learning application. Scores IMDB text reviews based off natural langu
 
 
 ## Usage
-View the notebook on [Google Colab](https://colab.research.google.com/github/Denjj/imdb-text-analysis/blob/master/imdb_text_analysis.ipynb).
+Run the Jupyter Notebook on [Google Colab](https://colab.research.google.com/github/Denjj/imdb-text-analysis/blob/master/imdb_text_analysis.ipynb).
 
 Press ctrl + F9 to begin program.
